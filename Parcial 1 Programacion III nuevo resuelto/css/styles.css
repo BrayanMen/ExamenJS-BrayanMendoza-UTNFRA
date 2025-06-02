@@ -193,3 +193,10 @@ button:hover{
   font-size: 1.2rem;
   text-align: right;
 }
+
+
+@media (max-width: 770px){
+  .barra-busqueda,.nombreAlumno{
+    display: none;
+  }
+}
